@@ -1,2 +1,4 @@
-def sum(num):
+def addOne(num):
     return num + 1
+
+print(addOne(10))
